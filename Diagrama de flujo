@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="Cm3i6GbTOUkC8q0RplKV">
-    <mxGraphModel dx="1569" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2396" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;print(f&quot;Hola! {nombre}&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;edad = (int(input(&quot;ingrese su edad&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;print(f&quot;Hola! {nombre}&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;edad = (int(input(&quot;ingrese su edad&quot;))&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8YcT-sL7oqop7EjxjOp-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.471;exitY=1.058;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-3">
@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;print(f&quot;¿has venido a calcular el área de un triángulo?&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;respuestra = int(input(&quot;ingrese si o no&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;print(f&quot;¿has venido a calcular el área de un triángulo?&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;respuestra = int(input(&quot;ingrese si o no&quot;))&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P8YcT-sL7oqop7EjxjOp-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-7">
@@ -78,7 +78,7 @@
         <mxCell id="P8YcT-sL7oqop7EjxjOp-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;if respuestra.lower() == si&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="510" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-17" value="&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;if respuestra.lower() ==&amp;nbsp; no&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;if responde.lower() == no&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="500" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P8YcT-sL7oqop7EjxjOp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-21">
@@ -91,7 +91,7 @@
             <mxPoint x="490" y="552.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-21" value="&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;else:&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;print(f&quot;por favor escribe solo si o no&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-21" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;demás:&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;print(f&quot;por favor escribe solo si o no&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P8YcT-sL7oqop7EjxjOp-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-21">
@@ -111,6 +111,63 @@
             <mxPoint x="720" y="500" as="sourcePoint" />
             <mxPoint x="770" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.425;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="710" as="sourcePoint" />
+            <mxPoint x="115" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;base = float(input(&quot;Ingresa la base del triangulo&quot;))&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="640" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-28" target="P8YcT-sL7oqop7EjxjOp-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="750" as="sourcePoint" />
+            <mxPoint x="320" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-30" value="&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;altura = float(input(&quot;ingresa la altura del triangulo&quot;))&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="640" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-31" value="&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;area = (base * altura) / 2&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="740" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-30" target="P8YcT-sL7oqop7EjxjOp-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="750" as="sourcePoint" />
+            <mxPoint x="550" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-31" target="P8YcT-sL7oqop7EjxjOp-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="750" as="sourcePoint" />
+            <mxPoint x="270" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-35" value="&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;print(f&quot;el area del triangulo es {area}&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="740" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-36" value="&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;print(f&quot;¿vas a calcular el promedio de tres numeros?&quot;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="840" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-35" target="P8YcT-sL7oqop7EjxjOp-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="800" as="sourcePoint" />
+            <mxPoint x="770" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-17" target="P8YcT-sL7oqop7EjxjOp-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="800" as="sourcePoint" />
+            <mxPoint x="770" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="990" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
