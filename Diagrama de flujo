@@ -78,7 +78,7 @@
         <mxCell id="P8YcT-sL7oqop7EjxjOp-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;if respuestra.lower() == si&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="510" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;if responde.lower() == no&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;elif respuestra.lower() == no&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="500" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P8YcT-sL7oqop7EjxjOp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-21">
@@ -178,10 +178,10 @@
         <mxCell id="P8YcT-sL7oqop7EjxjOp-41" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;else:&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;print(f&quot;por favor escribe solo si o no&quot;)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="1100" width="146" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;if responde.lower() == no&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;elif resputresnum.lower() == no&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1070" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;if responde.lower() == si&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;if resputresnum.lower() == si&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1080" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P8YcT-sL7oqop7EjxjOp-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-39" target="P8YcT-sL7oqop7EjxjOp-42">
@@ -230,10 +230,13 @@
         <mxCell id="P8YcT-sL7oqop7EjxjOp-53" value="&lt;font size=&quot;3&quot;&gt;numero1 = float(input(&quot;ingrese el primer numero&quot;))&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1220" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-42">
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-42" target="P8YcT-sL7oqop7EjxjOp-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="1380" as="sourcePoint" />
-            <mxPoint x="790" y="1410" as="targetPoint" />
+            <mxPoint x="790" y="1520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="1510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P8YcT-sL7oqop7EjxjOp-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-52" target="P8YcT-sL7oqop7EjxjOp-51">
@@ -266,8 +269,101 @@
         <mxCell id="P8YcT-sL7oqop7EjxjOp-60" value="&lt;font size=&quot;3&quot;&gt;print(f&quot;el promedio es {promedio}&quot;)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1340" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="P8YcT-sL7oqop7EjxjOp-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1470" width="120" height="60" as="geometry" />
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-61" value="&lt;font size=&quot;3&quot;&gt;print(f&quot;¿vas a clasificar numeros positivos, negativos y ceros??&quot;)&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1470" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.637;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-60" target="P8YcT-sL7oqop7EjxjOp-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1540" as="sourcePoint" />
+            <mxPoint x="770" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-64" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;elif respuclasif.lower() == no&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1710" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-65" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;else:&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;print(f&quot;por favor escribe solo si o no&quot;)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1730" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;if respuclasif.lower() == si&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1710" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-67" value="&lt;span style=&quot;font-size: medium;&quot;&gt;respuclasif = int(input(&quot;ingrese si o no&quot;))&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1590" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-61" target="P8YcT-sL7oqop7EjxjOp-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1730" as="sourcePoint" />
+            <mxPoint x="770" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-67" target="P8YcT-sL7oqop7EjxjOp-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1730" as="sourcePoint" />
+            <mxPoint x="770" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-67" target="P8YcT-sL7oqop7EjxjOp-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1730" as="sourcePoint" />
+            <mxPoint x="770" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-65" target="P8YcT-sL7oqop7EjxjOp-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1730" as="sourcePoint" />
+            <mxPoint x="770" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-72" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-66" target="P8YcT-sL7oqop7EjxjOp-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1730" as="sourcePoint" />
+            <mxPoint x="770" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-65" target="P8YcT-sL7oqop7EjxjOp-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1730" as="sourcePoint" />
+            <mxPoint x="770" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;numeros = [float(input(f&quot;ingrese el numero {i+1}:&quot;))for i in range(5)]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1850" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-66" target="P8YcT-sL7oqop7EjxjOp-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1940" as="sourcePoint" />
+            <mxPoint x="770" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-77" value="#&lt;font size=&quot;3&quot;&gt;contadores&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;positivos = 0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;negativos = 0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;ceros = 0&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="1860" width="216" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;if numeros &amp;gt; 0:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;positivos += 1&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2000" width="195" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-75" target="P8YcT-sL7oqop7EjxjOp-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1940" as="sourcePoint" />
+            <mxPoint x="770" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-80" value="&lt;font size=&quot;3&quot;&gt;else:&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;ceros += 1&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-81" value="&lt;font size=&quot;3&quot;&gt;elif numeros &amp;lt;0:&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;negativos +=1&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="2000" width="172" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.578;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-77" target="P8YcT-sL7oqop7EjxjOp-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="2110" as="sourcePoint" />
+            <mxPoint x="770" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8YcT-sL7oqop7EjxjOp-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8YcT-sL7oqop7EjxjOp-78" target="P8YcT-sL7oqop7EjxjOp-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="2110" as="sourcePoint" />
+            <mxPoint x="770" y="2060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
